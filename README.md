@@ -43,15 +43,10 @@ This project is a secure system implemented on an Arduino platform that provides
 
 ---
 
-## Technologies Used
+## Simulation Diagram
 
-- **Arduino C/C++**
-- **I2C Communication:** For controlling the LCD display.
-- **EEPROM:** For persistent storage of the password.
-- **Libraries:**
-  - `Wire.h`
-  - `LiquidCrystal_I2C.h`
-  - `EEPROM.h`
+For those who wish to run this project on a simulator (such as Wokwi), a `diagram.json` file is provided in this repository. Simply import the `diagram.json` into your simulator to set up the project environment and test it virtually.
+
 
 ---
 
